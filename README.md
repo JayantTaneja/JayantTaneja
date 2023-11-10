@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything Python/ML related**
 
-- 📫 Shoot me a message **[email](contact.mail.jayant@gmail.com)**
+- 📫 Shoot me a message **[email](mailto:contact.mail.jayant@gmail.com)**
 
 ---
 
