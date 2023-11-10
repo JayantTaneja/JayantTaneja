@@ -3,7 +3,7 @@
 <h1 align="center">I'm Jayant Taneja</h1>
 <h3 align="center">A curious CS undergrad, passionate about AI</h3>
 
-- 🌱 I’m currently learning about **Latent Diffusion Models**
+<!--- 🌱 I’m currently learning about **Latent Diffusion Models**-->
 
 - 👯 I’m looking to collaborate on **AI/ML and other Data Science/Analytics Projects**
 
