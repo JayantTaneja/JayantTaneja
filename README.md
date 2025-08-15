@@ -5,9 +5,9 @@
 
 <!--- 🌱 I’m currently learning about **Latent Diffusion Models**-->
 
-- 👯 I’m looking to collaborate on **AI/ML and other Data Science/Analytics Projects**
+<!--- - 👯 I’m looking to collaborate on **AI/ML and other Data Science/Analytics Projects**-->
 
-- 💬 Ask me about **Anything Python/ML related**
+<!--- - 💬 Ask me about **Anything Python/ML related**-->
 
 - 📫 Shoot me a message **[email](mailto:contact.mail.jayant@gmail.com)**
 <!--
