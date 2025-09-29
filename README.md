@@ -1,7 +1,7 @@
-### Hi there 👋
+<!---### Hi there 👋
 
-<h1 align="center">I'm Jayant Taneja</h1>
-<h3 align="center">Machine Learning Engineer @ Samsung Research</h3>
+<!---<h1 align="center">I'm Jayant Taneja</h1>
+<!---<h3 align="center">Machine Learning Engineer @ Samsung Research</h3>
 
 <!--- 🌱 I’m currently learning about **Latent Diffusion Models**-->
 
